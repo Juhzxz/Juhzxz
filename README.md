@@ -1,6 +1,5 @@
 -  Oi!,me chamo Julia Oliveira
--  Sou estudante do sesi
--  E atualmente estou interessada em trabalhar mais em habilidades que meu curso do futuro vai exigir
+-  2c-DS
 
 
 <!---
